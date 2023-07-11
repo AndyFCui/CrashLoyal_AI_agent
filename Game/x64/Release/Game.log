@@ -1,0 +1,14 @@
+﻿  Building.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Entity.h(25,10): fatal error C1083: Cannot open include file: 'EntityStats.h': No such file or directory
+  CrashLoyal.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Entity.h(25,10): fatal error C1083: Cannot open include file: 'EntityStats.h': No such file or directory
+  Entity.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Entity.h(25,10): fatal error C1083: Cannot open include file: 'EntityStats.h': No such file or directory
+  Game.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Game.h(25,10): fatal error C1083: Cannot open include file: 'Singleton.h': No such file or directory
+  Graphics.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Entity.h(25,10): fatal error C1083: Cannot open include file: 'EntityStats.h': No such file or directory
+  Mob.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Entity.h(25,10): fatal error C1083: Cannot open include file: 'EntityStats.h': No such file or directory
+  Player.cpp
+F:\OneDrive\NEU\Khoury\Spring 2022\CS5150 Game Artificial Intelligence\project2\DONE\CrashLoya34l\Game\src\Player.h(25,10): fatal error C1083: Cannot open include file: 'iPlayer.h': No such file or directory
