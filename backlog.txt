@@ -1,0 +1,21 @@
+Game:
+- (A) Mac build
+- Mob->Building collision => attack building
+- Victory conditions
+- Elixir costs
+- Unit: Giant, Skeleton, Wizard
+- UI for dropping units
+- Visual representation for attack
+- Spell: Fireball, Tornado, Haste
+- AI vs. AI play
+
+Code Debt:
+- Get rid of shared_ptr
+- Cleanup/Refactor
+- Code conventions
+
+Completed:
+- Mob subclasses for different unit types
+- Units are meters
+- Graphical representation of unit type
+- Game time based on system time, not tick frequency

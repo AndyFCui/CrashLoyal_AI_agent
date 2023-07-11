@@ -1,0 +1,2 @@
+C:\Users\MagickPanda\Desktop\CrashLoyal\Debug\Controller_UI.pdb
+C:\Users\MagickPanda\Desktop\CrashLoyal\Controller_UI\Debug\Controller_UI.pdb
