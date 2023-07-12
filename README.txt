@@ -1,4 +1,4 @@
-# Document statement about project 2 CS5150 Game AI - Crash Loyal Spring 2021
+# Document statement about project 2 CS5150 Game AI - Crash Loyal Spring 2022
 
 ## Author: Andy(Xiang-yu) Cui
 ## Northeastern University (Boston)
