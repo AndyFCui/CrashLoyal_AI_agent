@@ -1,4 +1,4 @@
-# Document statement about project 2 CS5150 Game AI - Crash Loyal Spring 2022
+# Crash Loyal
 
 ## Author: Andy(Xiang-yu) Cui
 ## Northeastern University (Boston)
@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-* Build collision avoidance for Crash Loyal, our home-brew clone of the popular mobile game Clash Royale. 
+* Build collision avoidance for Crash Loyal (Northeastern University-Boston CS5150 Game Artificial Intellgence project), our home-brew clone of the popular mobile game Clash Royale. 
 
 ### Demo Show
 ![CrashLoyal_Colliction](https://github.com/AndyFCui/CrashLoyal_AI_agent/assets/10085168/ce01cd01-24bb-4c9b-baa3-1ecc0bdbca34)
