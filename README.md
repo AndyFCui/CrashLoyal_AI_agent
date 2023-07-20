@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-* Build collision avoidance for Crash Loyal, our home-brew clone of the popular mobile game Clash Royale.  In preparing for this game, you may want to get a copy of Clash Royale (free on the Apple or Android store), and spend some time playing around with it, watching how different units interact when they try to move in to the same space.
+* Build collision avoidance for Crash Loyal, our home-brew clone of the popular mobile game Clash Royale. 
 
 ### Demo Show
 ![CrashLoyal_Colliction](https://github.com/AndyFCui/CrashLoyal_AI_agent/assets/10085168/ce01cd01-24bb-4c9b-baa3-1ecc0bdbca34)
