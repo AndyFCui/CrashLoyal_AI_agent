@@ -1,4 +1,4 @@
-# Crash Loyal
+# Crash Loyal AI Agent collision method
 
 ## Author: Andy(Xiang-yu) Cui
 ## Northeastern University (Boston)
