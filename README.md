@@ -4,7 +4,24 @@
 ## Northeastern University (Boston)
 ## Artificial Intellgence Of Khoury College
 
+### Project Overview
 
+* Build collision avoidance for Crash Loyal, our home-brew clone of the popular mobile game Clash Royale.  In preparing for this game, you may want to get a copy of Clash Royale (free on the Apple or Android store), and spend some time playing around with it, watching how different units interact when they try to move in to the same space.
+
+### Demo Show
+![CrashLoyal_Colliction](https://github.com/AndyFCui/CrashLoyal_AI_agent/assets/10085168/ce01cd01-24bb-4c9b-baa3-1ecc0bdbca34)
+
+
+### Game Policy
+
+* Source code for Crash Loyal can be found in the Project2.zip file.  The zip includes a Visual Studio 2019 solution.  This game is still a work in progress, so if you find any bugs, please let me know!  Also, as with project one, I don’t have a working solution for Mac (or Linux) development – Mac users will either need to get things compiling on their own, or find a PC to develop on.  
+The current interface allows you to drop units by holding a letter key while you left-click.  The unit you get depends on the letter you hold:
+
+* G – Giant
+* S – Swordsman
+* A – Archer
+
+Under the covers, but not currently displayed in the UI, is an elixir mechanic.  Like in the game, elixir builds up over time, and each unit costs a different amount of elixir.  Each player starts with 8 elixir, and gains 1 elixir every 3 second, up to a maximum of 10 elixir.  
 
 ### Project feature:
 
@@ -20,7 +37,7 @@
 
   * Avoid Giant wall issue, when two Giant happen collision, they will bypass each other continue their target (Tower).
 
-    * ![image-20220326235458907](C:\Users\Andy Cui\AppData\Roaming\Typora\typora-user-images\image-20220326235458907.png)
+    * ![image](https://github.com/AndyFCui/CrashLoyal_AI_agent/assets/10085168/904691a3-1dbe-4eaf-b1ae-bb0e78aea009)
 
   * Each character (include Giant, Swordsman, Archer) will action to attack their target(Tower), and when they will priority attack their collision object until there are dead.
   
